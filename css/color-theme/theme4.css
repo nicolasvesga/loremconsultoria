@@ -1,0 +1,129 @@
+/*------------ Gym-Page -------------*/
+.blog-btn a,
+.arrow-bck-gym,
+.arrow-bck-gym:focus,
+.type-4 .navbar-nav>li>a:hover,
+.type-4 .navbar-nav>.active>a,
+.type-4 .navbar-nav>.active>a:hover,
+.gym-classes h4 span,
+.gym-classes h5 span,
+.blog-detail h5 a,
+.gym.footer-copyright a,
+.counter h2,
+.category-box span,
+.creative-box .creative-box-info .team-position2,
+.gym-classes p span,
+.blog-title a:hover,
+.team-box h4,
+.gallery-btn.active,
+.gallery-btn:hover,
+.gym-classes h4 a:hover,
+.caurses-box i,
+.package .pricing-table .pricing-img h3,
+.gallery-title-sep::before,
+.gym-classes h3 a:hover,
+.blog-cat,
+.btn-subscribe:hover{
+    color: #da3d3c;
+}
+.btn-rounded-gym:hover,
+.creative-box .team-name,
+.type-4 .navbar-nav>li>a:focus{
+	color:#fff;
+}
+.creative-box .team-position{
+    color: #3d3d3d;
+    background-color: #fff;
+}
+#accordion .panel-title a:after,
+.arrow-bck-gym:hover,
+.about-content a:hover,
+.gym-classes .owl-prev:hover,
+.gym-classes .owl-next:hover,
+.class-schedule-wrap .nav-tabs1 li a,
+li.liner,
+.schedule-box,
+li .schedule-box:before,
+span.round-tabs,
+.team-box .social-icon,
+.blog-btn a:hover,
+.testmonial,
+.comment-btn,
+.con-info,
+.testimonial-slider .owl-dot.active,
+.creative-box  .team-name,
+.creative-box .creative-box-info .team-position2:after,
+.creative-box .creative-box-info .social li a:hover,
+.footer-contact-panel,
+.partner-section,
+.testi-panel,
+.popup-box:hover,
+.gym-classes .owl-dots .owl-dot.active,
+.team-slides .owl-dot.active,
+.title-line:after, .title-line:before,
+.title-line > i,
+.search-section,
+.blog-pic .blog-date,
+.btn-rounded-gym:hover{
+    background-color: #da3d3c;
+}
+.title-line:after{
+    background: linear-gradient(to right, transparent , #da3d3c);
+}
+
+.title-line:before{
+    background: linear-gradient(to left, transparent , #da3d3c);
+}
+.about-content a:hover{
+    color: #fff;
+    border-color: transparent;
+}
+
+  
+
+
+.package .pricing-table:hover .pricing-detail, 
+ .info-form .form-control:focus, 
+ .gallery-btn:hover::before,
+ .package .pricing-table:hover .default-btn,
+.gallery-btn.active:before,
+.gym-classes .owl-next:hover,
+.gym-classes .owl-prev:hover,
+.blog-detail:hover .btn,
+.btn-rounded-gym:hover,
+.popup-box:hover,
+ .info-form .textarea:focus,
+.form-control:focus {
+    border-color: #da3d3c;
+}
+.type-4 .navbar-nav>.active>a:focus{
+	
+ color: #da3d3c;	
+}
+.default-btn:hover{
+    background-color: #da3d3c;
+    color: #fff;
+}
+.package .pricing-table .gym.pricing-img span{
+    background-color: #fff;
+    color: #232323;
+}
+.category-box h4{
+    color: #232323;
+}
+.btn-subscribe{
+    background-color: #232323;
+}
+.testimonial-two-panel .owl-dot.active{
+    background: #fff;
+}
+
+.creative-box .creative-box-info .team-position2{
+    color: #d7d7d7;
+}
+.caurses{
+    background: #f5f5f5;
+}
+.package .pricing-table .pricing-img.business p{
+    color: #fff;
+}

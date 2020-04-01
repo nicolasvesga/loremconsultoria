@@ -1,0 +1,140 @@
+/*------------ Construction-Page -------------*/
+.cons-logo{
+    background-color: #787878;
+}
+.blog-cat,
+.arrow-bck-cons,
+.arrow-bck-cons:focus,
+.type-2 .navbar-nav>.active>a,
+.type-2 .navbar-nav>.active>a:hover,
+.type-2 .navbar-nav>.active>a:focus,
+.type-2 .navbar-nav>li>a:hover,
+.timeline-detail span,
+.blog-detail.cons-blog-detail h5 a,
+.btn-rounded-cons:hover,
+.cons-btn a:hover,
+.blog-detail h4 a:hover,
+.counter-agency i,
+.gallery-btn.active,
+.gallery-btn:hover,
+
+.category-box span,
+.gallery-title-sep::before,
+.btn-subscribe.bg-cons-btn:hover,
+.creative-box .creative-box-info .team-position2,
+.cons.footer-copyright a {
+    color: #f8c12c;
+}
+.type-2 .navbar-nav>li>a:focus{
+	color:#fff;
+}
+.arrow-bck-cons:hover,
+.about-content a.btn-cons:hover,
+.project-nav .slick-prev:hover,
+.project-nav .slick-prev:focus,
+.project-nav .slick-next:hover,
+.project-nav .slick-next:focus,
+.blog-pic .blog-date.blog-cons-date,
+.title-line:after, .title-line:before,
+.title-line > i,
+.comment-btn.cons-bg-btn,
+.blog-btn.blog-cons-btn a:hover,
+.cons-testmonial1,
+.our-skills,
+.popup-box:hover,
+.testimonial-slider .owl-dot.active,
+.con-info.cons-bg-clr,
+.footer-contact-panel.cons-contact-panel,
+.partner-section,
+.creative-box  .team-name,
+.creative-box .creative-box-info .team-position2:after,
+.creative-box .creative-box-info .social li a:hover,
+.team-slides .owl-dot.active,
+.testi-panel {
+    background-color: #f8c12c;
+}
+.title-line:after{
+    background: linear-gradient(to right, transparent , #f8c12c);
+}
+
+.title-line:before{
+    background: linear-gradient(to left, transparent , #f8c12c);
+}
+.btn-rounded-cons:hover,
+ .info-form .form-control:focus,
+ .info-form .textarea:focus,
+ .gallery-btn:hover::before,
+ .popup-box:hover,
+ .blog-detail:hover .btn,
+.gallery-btn.active:before,
+.form-control:focus {
+    border-color: #f8c12c;
+}
+.blog-btn.blog-cons-btn a {
+    border: 2px solid #232323;
+}
+
+.about-box i{
+    color: #b5b5b5;
+}
+.search-item p{
+    color: #858585;
+}
+.con-info p{
+    color: #232323;
+}
+.statistics-panel.cons-skill-panel .progress .progress-bar{
+    background-color: #f8c12c;
+}
+.default-btn:hover{
+    background-color: #f8c12c;
+    color: #232323;
+}
+.project-nav .slick-prev,
+.project-nav .slick-next,
+.project-nav .slick-prev:hover,
+.project-nav .slick-prev:focus,
+.project-nav .slick-next:hover{
+    color: #232323;
+}
+.service-box.con-service-box{
+border: 2px solid #e8e8e8;
+}
+.service-box.con-service-box:hover{
+    border-color: #f8c12c;
+}
+.con-info.cons-bg-clr span{
+    color: #fff;
+}
+.service-box span{
+    color: #b5b5b5;
+}
+.creative-box .creative-box-info .social li a:hover{
+    color: #232323;
+}
+.testimonial-slider2 .content{
+    background-color: #f5f5f5;
+}
+.testimonial-slider2 .content:after{
+    border-top-color:#f5f5f5 !important;
+}
+.testimonial-slider2 .testimonial-image-holder {
+    border-color: #f5f5f5;
+}
+.testimonial-two-panel .owl-dot.active{
+    background: #fff;
+}
+.creative-box .team-name,
+.about-content a.btn-cons:hover {
+    color: #232323;
+}
+.search-section {
+    background: #f8c12c;
+}
+.text-blk{
+    color: #232323 !important;
+}
+.search-item .colud-desc,
+.blog-btn a:hover{
+    color: #232323;
+}

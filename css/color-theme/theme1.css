@@ -1,0 +1,128 @@
+/*---------- Agency-page ---------------*/
+
+.btn-rounded:hover {
+    border-color: #556df4;
+    background: #556df4;
+}
+.type-1 .navbar-nav>li>a:hover,
+.type-1 .navbar-nav>.active>a:focus,
+.type-1 .navbar-nav>.active>a,
+.type-1 .navbar-nav>.active>a:hover{
+    color: #556df4;
+}
+.creative-box .team-name
+{
+color: #fff;
+}
+.about-content a.btn-agency:hover {
+    background-color: #556df4;
+    color: #fff;
+    border-color: transparent;
+}
+.progress-bar,
+.portfolio-icon,
+.partner-section,
+.testi-panel,
+.portfolio-icon span,
+.footer-contact-panel,
+.comment-btn.bg-btn,
+.con-info.bg-clr,
+.search-section,
+.testimonial-slider .owl-dot.active,
+.creative-box  .team-name,
+.creative-box .creative-box-info .team-position2:after,
+.creative-box .creative-box-info .social li a:hover,
+.team-slides .owl-dot.active,
+.portfolio-icon span,
+.blog-pic .blog-date.blog-agency-date,
+.title-line:after, .title-line:before,
+.title-line > i,
+.blog-btn.blog-age-btn a:hover,
+.arrow-bck-agency:hover {
+    background-color: #556df4;
+}
+.title-line:after{
+    background: linear-gradient(to right, transparent , #556df4);
+}
+
+.title-line:before{
+    background: linear-gradient(to left, transparent , #556df4);
+}
+
+.blog-btn a,
+.blog-cat,
+.arrow-bck-agency,
+.blog-title a:hover,
+.counter-agency i,
+.category-box span,
+.gallery-title-sep::before,
+.timeline-detail span,
+.package .pricing-table .pricing-img h3,
+.arrow-bck-agency:focus,
+.btn-subscribe.bg-btn:hover,
+.gallery-btn.active,
+.agency.footer-copyright a,
+.gallery-btn:hover { 
+    color: #556df4;
+}
+
+.package .pricing-table:hover .pricing-img.business,
+.package .pricing-table:hover .default-btn,
+.info-form .form-control:focus,
+.info-form .textarea:focus,
+.blog-detail:hover .btn,
+.popup-box:hover,
+.gallery-btn:hover::before,
+.gallery-btn.active:before,
+.form-control:focus {
+    border-color: #556df4;
+}
+.bg-blue{
+    background-color: #556df4 !important;
+    border: none !important;
+}
+.package .pricing-table:hover .pricing-detail.pri-agency{
+    border: 1px solid #556df4;
+}
+ #accordion .panel {
+    background: #E6E6E6;
+}
+.creative-box .creative-box-info .team-position2{
+    color: #d7d7d7;
+}
+
+.creative-box .team-position{
+    color: #3d3d3d;
+    background-color: #fff;
+}
+.package .pricing-table .pricing-img span{
+background-color: #fff;
+color: #3d3d3d;
+}
+
+.navbar-collapse{
+    background-color: #fff !important;
+}
+.testimonial-two-panel .owl-dot.active{
+    background: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar{
+    background-color: #232323 !important;
+}
+.default-btn:hover{
+    background-color: #556df4;
+    color: #fff;
+}
+.navbar{
+    background: #fff !important;
+}
+.type-1 .navbar-nav>li>a:focus,
+.navbar .nav > li > a, .navbar .nav a:hover{
+    color: #232323;
+}
+.timeline-detail span{
+    color: #b7b7b7;
+}
+.service-box span {
+    color: #b5b5b5;
+}

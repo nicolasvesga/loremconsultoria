@@ -1,0 +1,163 @@
+/*---------- Resume-page ---------------*/
+
+.resume.btn-rounded:hover {
+    border-color: #ff305b;
+}
+.type-6 .navbar-nav>li>a:hover,
+.type-6 .navbar-nav>.active>a:focus,
+.type-6 .navbar-nav>.active>a,
+.type-6 .navbar-nav>.active>a:hover{
+    color:#ff305b;
+}
+
+.type-6 .navbar-nav>li>a:focus{
+color: #fff;
+}
+
+.about-content a.btn-cons:hover,
+.project-nav .slick-prev,
+.project-nav .slick-next,
+.project-nav .slick-prev:hover,
+.project-nav .slick-prev:focus,
+.project-nav .slick-next:hover,
+.project-nav .slick-next:focus,
+.project-nav .slick-next,
+.project-nav .slick-prev{
+color:#fff;
+}
+.about-content h3{
+    color: #232323;
+}
+.about-content a.btn-agency {
+    background-color: #524DAE;
+}
+.progress-bar,
+.footer-contact-panel,
+.comment-btn.bg-btn,
+.con-info.bg-clr,
+.blog-pic .blog-date.blog-agency-date,
+.blog-btn.blog-age-btn a:hover,
+.arrow-bck-cons:hover,
+.comment-btn,
+.search-section,
+.about-content a.btn-cons:hover,
+.project-nav .slick-prev,
+.testimonial-slider .owl-dot.active,
+.project-nav .slick-next,
+.btn-rounded:hover,
+.title-line:after, .title-line:before,
+.title-line > i,
+.bg-pink,
+.project-nav .slick-prev:hover,
+.project-nav .slick-prev:focus,
+.project-nav .slick-next:hover,
+.project-nav .slick-next:focus{
+    background-color: #ff305b;
+}
+.bg-pink{
+    color: #fff !important;
+    border-color: #fff !important;
+}
+.title-line:after{
+    background: linear-gradient(to right, transparent , #ff305b);
+}
+
+.title-line:before{
+    background: linear-gradient(to left, transparent , #ff305b);
+}
+.blog-cat,
+.blog-btn a,
+.blog-detail h5 a,
+.agency.footer-copyright a,
+.blog-title a:hover,
+.service-box-title,
+.about-content h4,
+.counter-agency i,
+.gallery-btn.active,
+ .timeline-detail span,
+ .gallery-btn:hover{
+    color: #ff305b;
+}
+.personal-slider,
+.work-section{
+    background: #fff;
+}
+ .info-form .form-control:focus, 
+ .gallery-btn:hover::before,
+.gallery-btn.active:before,
+.blog-detail:hover .btn,
+ .info-form .textarea:focus,
+ .form-control:focus{
+    border-color: #ff305b;
+}
+
+.default-btn:hover{
+    background-color: #ff305b;
+    color: #fff;
+}
+.blog-btn.blog-age-btn a {
+    border: 2px solid #ff305b;
+}
+.btn-subscribe{
+    background: #232323;
+}
+
+.gallery-content.cons-gallery-before:after{
+border-color:#fff;
+}
+.timeline-detail h4{
+    color: #000;
+}
+.gallery-title-sep::before,
+.arrow-bck-cons,
+.btn-subscribe.bg-btn:hover,
+.arrow-bck-cons:focus {
+    color: #ff305b;
+}
+.testimonial-two-panel .owl-dot.active{
+    background: #fff;
+}
+.gallery-box .gallery-content.cons-gallery-before::before {
+    background-color: rgba(18, 87, 77, 0.9);
+}
+
+.service-corp-right:hover .corp-service-box:before, 
+.service-corp-right:hover .corp-service-box.left-box:before,
+.service-corp-left:hover .corp-service-box:before,
+.service-corp-left:hover .corp-service-box.left-box:before{
+    border-top: 26px solid #ff305b;
+}
+.service-corp-right:hover .corp-service-box,
+.service-corp-left:hover .corp-service-box{
+    border-color: #ff305b;
+}
+.corp-service-box{
+    border: 2px solid #e8e8e8;
+}
+.corp-service-box:before,
+.corp-service-box.left-box:before {
+    border-top: 26px solid #e8e8e8;
+}
+.project-nav .slick-next,
+.project-nav .slick-prev{
+background-color:#3d3d3d;
+}
+.corp-service-box:after {
+    border-top-color: #fff !important;
+}
+/*------- timeline --------*/
+.main-timeline .timeline:hover .timeline-icon:before{ background: #ff305b; }
+.main-timeline .timeline:nth-child(2n):hover .timeline-content:before,
+.main-timeline .timeline:hover .timeline-content:before{
+    border-color: #ff305b;
+}
+.main-timeline .timeline:hover .timeline-content {
+    border: 1px solid #ff305b;
+}
+.main-timeline .date,
+.main-timeline .timeline:hover .title{
+    color: #ff305b;
+}
+.main-timeline .timeline:hover .date{ 
+    color: #232323;
+}

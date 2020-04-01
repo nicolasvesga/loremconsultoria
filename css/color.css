@@ -1,0 +1,377 @@
+/*==============================
+       color properties 
+ ============================== */
+/*----- Genral-color -----*/
+
+.info-form .form-control,
+.info-form .textarea,
+.con-info.cons-bg-clr h3,
+.con-info.cons-bg-clr span,
+.con-info.cons-bg-clr h4,
+.con-info.cons-bg-clr h5,
+.con-info.cons-bg-clr a,
+.footer-social-icon li a,
+.comment-btn.cons-bg-btn:hover,
+.info-form .form-control,
+.info-form h4,
+.corp-service-icon span,
+.corp-service-icon-right span,
+.comment-btn:hover,
+.about-box h4,
+.about-box i,
+.category-box span,
+.corp-service-box h4,
+.service-box-title,
+.about-content a.btn-cons,
+.comment-btn.bg-btn:hover,
+.comment-btn.corp-bg-btn:hover,
+.pagination li a,
+.categories li a,
+.recent-posts h4 a,
+.comment-form .btn-submit:hover{
+    color: #232323;
+}
+.btn-subscribe:hover,
+.btn-subscribe.bg-cons-btn:hover,
+.btn-subscribe.bg-btn:hover,
+.creative-box  .team-position,
+.btn-subscribe.bg-corp-btn,
+.btn-subscribe.bg-cons-btn,
+.counter-icon span,
+.footer-social-icon li a:hover,
+.pagination li.priview:hover,
+.pagination li.next:hover{
+    background-color: #232323;
+}
+.comment-btn.cons-bg-btn:hover,
+.comment-btn:hover,
+.comment-btn.bg-btn:hover,
+.comment-btn.corp-bg-btn:hover,
+.about-content a.btn-cons:hover,
+.feature-title h3,
+.blog-content .content-title h2 span,
+.comment-form .btn-submit:hover{
+    border-color: #232323;
+}
+
+#accordion .panel-title a,
+.cons-icon span,
+.cons-skill h3,
+.blog-pic .blog-date.blog-cons-date,
+.info-form h3,
+.comment-btn.cons-bg-btn,
+.pricing-detail .btn.red,
+.pricing-detail .btn.red:before,
+.pricing-detail .btn.red:after,
+.blog-detail .btn.red,
+.blog-detail .btn.red:before,
+.blog-detail .btn.red:after,
+.blog-btn a,
+.title-content,
+.work-section h3,
+.search-item .form-control,
+.service-title h3,
+li.active span.round-tabs.one,
+li.active span.round-tabs.two,
+li.active span.round-tabs.three,
+li.active span.round-tabs.four,
+li.active span.round-tabs.five,
+li.active span.round-tabs.six,
+li.active span.round-tabs.seven,
+li.active .schedule-box,
+.about-content a:hover,
+.testimonial-slider2 .testimonial-review .testimonial-title.test-cons-title,
+.testimonial-slider2.cons-btn .owl-prev,
+.testimonial-slider2.cons-btn .owl-next,
+.personal-slider .owl-prev,
+.personal-slider .owl-next,
+.corp-slider .owl-prev,
+.category-box h4,
+.counter-agency h2,
+.progress-title,
+.corp-slider .owl-next,
+.gym-classes h4 a,
+.service-box span,
+.blog-title a,
+.creative-box  .team-position,
+#accordion .panel-body {
+    color: #232323;
+}
+.play-video {
+    background-color: #232323;
+}
+.pricing-detail .btn.red:before,
+.pricing-detail .btn.red:after,
+.blog-detail .btn.red:before,
+.blog-detail .btn.red:after,
+.about-content a:hover,
+.blog-detail .btn.red,
+.pricing-detail .btn.red{
+    border-color: #232323;
+}
+.play-video.corp-video {
+    border: 6px solid #232323;
+}
+.about-content a.btn-cons:hover{
+    color: #fff;
+    border-color: transparent;
+}
+.about-detail p{
+    color: #232323;
+}
+
+.blog-detail .btn,
+.package .pricing-table .pricing-detail .btn,
+.package .pricing-table .pricing-detail,
+.package .pricing-table .pricing-img.business {
+    border: 1px solid #232323;
+}
+.package .pricing-table .pricing-detail li,
+.info-form .form-control {
+border-bottom:1px solid #d7d7d7;
+}
+.info-form .textarea{
+	border:1px solid #232323;
+}
+#accordion .panel-body,
+#accordion .panel-title a,
+.first-slider .carousel-indicators .active,
+.project-nav .slick-next,
+.project-nav .slick-prev,
+.corp-slider .owl-prev,
+.corp-slider .owl-next,
+.corp-slider .owl-controls.clickable,
+.corp-slider .owl-controls .owl-page,
+.corp-slider .owl-controls .owl-page.active span,
+.testimonial-slider2 .content,
+.footer-form-panel,
+.arrow-bck-agency,
+.arrow-bck-cons,
+.arrow-bck-corp,
+.arrow-bck-gym,
+.type-3 .navbar-brand:focus,
+.type-3 .navbar-brand:hover,
+.type-4 .navbar-brand:focus,
+.type-4 .navbar-brand:hover,
+.owl-controls.clickable .owl-page:hover span,
+.corp-logo,
+.corp-logo.fixed-corp,
+.logo-gym,
+.category-box,
+.about-content a.btn-cons:hover,
+li.active .schedule-box:before,
+.nav-tabs > li.active > a span.round-tabs,
+.blog-detail,
+.search-item .form-control,
+.info-form,
+.con-info,
+.mouse span.scroll-down,
+.about-content a:hover,
+.about-content a.btn-agency:hover,
+.about-content a.btn-corp:hover,
+.comment-form .btn-submit:hover,
+.class-schedule-wrap .nav-tabs1 li.active a,
+.creative-box  .team-position {
+    background-color: #fff;
+}
+.testimonial-slider .owl-controls .owl-page.active span{
+background-color: #fff;
+
+}
+li.active span.round-tabs.one,
+li.active span.round-tabs.two,
+li.active span.round-tabs.three,
+li.active span.round-tabs.four,
+li.active span.round-tabs.five,
+li.active span.round-tabs.six,
+li.active span.round-tabs.seven {
+    background: #fff !important;
+    border: none;
+}
+ .corp-slider .owl-controls .owl-page span,
+.footer-social-icon li {
+    background: #fff;
+}
+a:hover,
+#accordion .panel-title a:after,
+.blog-pic,
+.blog-btn a:hover,
+.partner-section,
+.testi-panel,
+.statistics-panel.gym-panel h3,
+.our-client,
+.testimonial-slider2 .owl-prev,
+.testimonial-slider2 .owl-next,
+.search-item .colud-desc,
+.btn-subscribe,
+.btn-subscribe:hover,
+.btn-subscribe.bg-cons-btn:hover,
+.btn-subscribe.bg-corp-btn:hover,
+.btn-subscribe.bg-btn:hover,
+.footer,
+.comment-btn,
+.footer-social-icon li a:hover,
+.service-icon span,
+.about-content a,
+.timeline-detail h3,
+.package .pricing-table .pricing-img.business,
+.blog-btn.blog-age-btn a:hover,
+.partner-section,
+.testi-panel,
+.bor-wht,
+.statistics-panel.skill-panel,
+.section-title-three,
+.partner-section,
+.testi-panel,
+.statistics-panel.corp-skill,
+.statistics-panel.corp-skill h3,
+.corp-slider .owl-next:hover,
+.corp-slider .owl-prev:hover,
+.blog-pic .blog-date.blog-corp-date,
+.blog-btn.blog-corp-btn a:hover,
+.testimonial-slider2 .corp-testimonial .owl-prev,
+.btn-subscribe.bg-corp-btn,
+.comment-btn.corp-bg-btn,
+.arrow-bck-agency:hover,
+.arrow-bck-agency:hover:focus,
+.arrow-bck-cons:hover,
+.arrow-bck-cons:hover:focus,
+.arrow-bck-corp:hover,
+.arrow-bck-corp:hover:focus,
+.arrow-bck-gym:hover,
+.arrow-bck-gym:hover:focus,
+.first-slider .slide-content h3,
+.first-slider .slide-content h4,
+.carousel-control .fa-angle-left,
+.carousel-control .fa-angle-right,
+.slide-title,
+.counter-icon span,
+.caurses-detail p,
+.schedule-box,
+.play-video .fa-play,
+.package .pricing-table .pricing-img.normal,
+.package .pricing-table .pricing-img.stand,
+.package .pricing-table .pricing-img.primium,
+.testmonial-ceo h3,
+.page-title h3,
+.page-title .blog-text-detial p,
+.page-title .breadcrumb,
+.blog-social-icon li:hover a,
+.newslater-btn a,
+.tags li:hover a,
+.pagination .priview a,
+.pagination .next a,
+.pagination li.priview,
+.pagination li.next,
+.comments ul li h5,
+.creative-box .creative-box-info .social li a:hover,
+.comments ul li p,
+.comments ul li h5 small,
+.comment-form .btn-submit,
+.class-schedule-wrap .nav-tabs1 li a,
+.footer-copyright p,
+.btn-rounded-corp,
+.btn-rounded:hover,
+.btn-rounded-gym,
+.con-info p,
+.search-item p,
+.btn-subscribe.bg-cons-btn,
+.timeline-detail p,
+.blog-date,
+.timeline-detail{
+    color: #fff;
+}
+.text-wht {
+    color: #fff !important;
+}
+.testimonial-slider2 .testimonial-review .testimonial-title{
+    color: #232323;
+}
+.navbar .nav > li > a,
+
+.navbar .nav a:hover{
+	 color: #fff;
+}
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover{
+	 color: #fff;
+}
+.blog-social-icon li:hover,
+.comment-form .btn-submit {
+    border-color: #fff;
+}
+.type-2 .navbar-brand:focus,
+.type-2 .navbar-brand:hover {
+    background-color: #787878;
+}
+.bor-wht,
+.testimonial-slider2 .testimonial-review > img{
+border:2px solid #fff;
+}
+.blog-detail img{
+border:2px solid #fff;
+}
+.testimonial-slider2 .testimonial-image-holder{
+    border:5px solid #fff;
+}
+.statistics-panel {
+    background: #f5f5f5;
+}
+/*--------- Transprant-color------*/
+
+.comment-btn:hover,
+.comment-btn.bg-btn:hover,
+.comment-btn.corp-bg-btn:hover,
+.comment-btn.cons-bg-btn:hover {
+    background-color: transparent;
+}
+.type-5 .navbar-brand:hover, 
+.type-3 .navbar-brand:focus,
+.type-5 .navbar-brand:focus{
+background-color:#fff;
+}
+.btn-subscribe.bg-btn{
+    background: #232323;
+}
+.package .pricing-table .pricing-detail{
+    background: #fff;
+}
+
+.counter-agency{
+    background-color: #fff;
+}
+
+.progress,
+.footer-copyright{
+	background-color:#232323;
+}
+.back-wht{
+    background-color: #fff;
+}
+
+.back-grey{
+    background: #f5f5f5;
+}
+.testimonial-slider2 .owl-prev:hover,
+.testimonial-slider2 .owl-next:hover,
+.blog-cat:hover{
+    color: #232323;
+}
+.overlay-border::before {
+    border-top: 2px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+    
+}
+.overlay-border::after {
+    border-right: 2px solid rgba(255, 255, 255, 0.3);
+    border-left: 2px solid rgba(255, 255, 255, 0.3);
+}
+.section-title-three {
+    color: #232323;
+}
+.testimonial-slider2 .testimonial-review .testimonial-title > b,
+.corp-skill .testimonial-slider2 .owl-prev,
+.testimonial-slider2 .owl-prev,
+.testimonial-slider2 .owl-next{
+    color: #858585;
+}

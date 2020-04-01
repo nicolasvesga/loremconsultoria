@@ -1,0 +1,180 @@
+/*------------- Corporate-Page ------------*/
+
+.btn-rounded-corp{
+    border: 1px solid #00B2D9;
+}
+.blog-cat,
+.arrow-bck-corp,
+.arrow-bck-corp:focus,
+.type-3 .navbar-nav>.active>a,
+.type-3 .navbar-nav>.active>a:hover,
+.type-3 .navbar-nav>.active>a:focus,
+.type-3 .navbar-nav>li>a:hover,
+.blog-detail.corp-blog-detail h5 a,
+.blog-btn.blog-corp-btn a,
+.text-subtitle span,
+.footer-copyright a,
+.page .title h3,
+.page .side-bar-about h4,
+.tags li a,
+.pagination li.active a,
+.pagination li a:hover,
+.breadcrumb>li a:hover,
+.feature-title h3,
+.well-detail h4,
+.service-box-title,
+.counter-agency i,
+.timeline-detail span,
+.category-box span,
+.gallery-title-sep::before,
+.up-angle a:hover,
+.package .pricing-table .pricing-img h3,
+.blog-title a:hover,
+.gallery-btn.active,
+.btn-subscribe.bg-corp-btn:hover,
+.blog-comment h3,
+.gallery-btn:hover,
+.creative-box .creative-box-info .team-position2{ 
+    color: #00B2D9;
+}
+.type-3 .navbar-nav>li>a:focus{
+color: #fff;
+}
+.about-content a.btn-corp:hover,
+.btn-rounded-corp:hover{
+color:#fff;
+border-color:#00B2D9;
+background-color: #00B2D9;
+}
+
+.progress .progress-bar,
+.arrow-bck-corp:hover,
+.portfolio.corp-port,
+.blog-pic .blog-date.blog-corp-date,
+.blog-btn.blog-corp-btn a:hover,
+.comment-btn.corp-bg-btn,
+.corp-slider .owl-controls .owl-page.active,
+.con-info.corp-bg-clr,
+.footer-contact-panel.corp-contact-panel,
+.partner-section,
+.testi-panel,
+.tags li:hover,
+.testimonial-slider .owl-dot.active,
+.creative-box  .team-name,
+.creative-box .creative-box-info .team-position2:after,
+.creative-box .creative-box-info .social li a:hover,
+.team-slides .owl-dot.active,
+.comment-form .btn-submit,
+.project-nav .slick-prev,
+.project-nav .slick-next,
+.project-nav .slick-prev:hover,
+.title-line > i,
+.popup-box:hover, 
+.title-line:after, .title-line:before,
+.project-nav .slick-prev:focus,
+.project-nav .slick-next:hover,
+.project-nav .slick-next:focus {
+    background-color: #00B2D9;
+}
+.title-line:after{
+    background: linear-gradient(to right, transparent , #00B2D9);
+}
+
+.title-line:before{
+    background: linear-gradient(to left, transparent , #00B2D9);
+}
+
+.blog-detail a.btn.btn-lg.red.orange:hover,
+.blog-detail a.btn.btn-lg.red.orange:hover:before,
+.blog-detail a.btn.btn-lg.red.orange:hover:after,
+ .package .pricing-table:hover .default-btn,
+ .blog-detail:hover .btn,
+ .info-form .form-control:focus,
+ .info-form .textarea:focus,
+ .gallery-btn:hover::before,
+ .gallery-btn.active:before,
+ .popup-box:hover,
+ .gallery-btn.active,
+.form-control:focus {
+    border-color: #00B2D9;
+}
+.blog-btn.blog-corp-btn a,
+
+.package .pricing-table:hover .pricing-detail.pri-corp { 
+    border: 1px solid #00B2D9;
+}
+.service-corp-right:hover .corp-service-box:before,
+.service-corp-right:hover .corp-service-box.left-box:before,
+.service-corp-left:hover .corp-service-box:before,
+.service-corp-left:hover .corp-service-box.left-box:before{
+    border-top: 26px solid #00B2D9;
+}
+.service-corp-right:hover .corp-service-box,
+.service-corp-left:hover .corp-service-box{
+    border-color: #00B2D9;
+}
+.corp-service-box{
+    border: 2px solid #e8e8e8;
+}
+.corp-service-box:before,
+.corp-service-box.left-box:before {
+    border-top: 26px solid #e8e8e8;
+}
+.creative-box .team-name,
+.project-nav .slick-prev,
+.project-nav .slick-next,
+.project-nav .slick-prev:hover,
+.project-nav .slick-prev:focus,
+.project-nav .slick-next:hover,
+.project-nav .slick-next:focus{
+color:#fff;
+}
+.project-nav .slick-next,
+.project-nav .slick-prev{
+background-color:#3d3d3d;
+}
+.package .pricing-table .pricing-img span{
+    background-color: #fff;
+    color: #3d3d3d;
+}
+
+.creative-box .team-position{
+    color: #3d3d3d;
+    background-color: #fff;
+}
+.type-5{
+background-color:transparent;
+}
+.type-5.scroll-fixed{
+background-color:#000;
+}
+.type-5 .navbar-nav>.active>a,
+.type-5 .navbar-nav>.active>a:hover,
+.type-5 .navbar-nav>.active>a:focus,
+.type-5 .navbar-nav>li>a:hover{
+    color: #00B2D9;
+}
+
+.type-5 .navbar-nav>li>a:focus
+{
+color: #fff;
+}
+
+.default-btn:hover{
+    background-color: #00B2D9;
+    color: #fff;
+}
+.testimonial-two-panel .owl-dot.active{
+    background: #fff;
+}
+
+.statistics-panel.corp-skill{
+    background: #f5f5f5;
+}
+.testimonial-slider2 .owl-prev:hover,
+.testimonial-slider2 .owl-next:hover{
+    color: #000;
+}
+.search-section {
+    background: #00B2D9;
+}
